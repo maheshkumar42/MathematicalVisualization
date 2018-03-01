@@ -36,21 +36,21 @@ d). 3D Graph with animation:
 ![alt text](https://github.com/comrench/MathematicalVisualization/blob/master/dist/sample/Graph3D_Animation.jpg)
 
 
-Eclipse version: Oxygen.2 Release (4.7.2)
-Java version: "1.8.0_162"
+Eclipse version: Oxygen.2 Release (4.7.2)  
+Java version: "1.8.0_162"  
 
-Application uses Fxyz jar file as dependency.
+Application uses Fxyz jar file as dependency.  
 
-Usage: 
-Usage   : java -jar <jarFile> <inputXmlFile>
-Example : java -jar mathematicalVisualization.jar etc/mathematicalVisualization.xml
-Once application is launched then press any key to change the scene.
-
-Sample execution run:
-C:\>java -jar bin/mathematicalVisualization.jar etc/mathematicalVisualization.xml
-Loading the configuation XML file: etc/mathematicalVisualization.xml
-Configuration XML loaded successfully.
-Configutation file read successfully.
-Launching the fly-through
-Completed successfully
-C:\>
+Usage:   
+Usage   : java -jar <jarFile> <inputXmlFile>  
+Example : java -jar mathematicalVisualization.jar etc/mathematicalVisualization.xml  
+Once application is launched then press any key to change the scene.  
+  
+Sample execution run:  
+C:\>java -jar bin/mathematicalVisualization.jar etc/mathematicalVisualization.xml  
+Loading the configuation XML file: etc/mathematicalVisualization.xml  
+Configuration XML loaded successfully.  
+Configutation file read successfully.  
+Launching the fly-through  
+Completed successfully  
+C:\>  
