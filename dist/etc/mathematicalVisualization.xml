@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mathVisualization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mathVisualization.xsd">
+	<generic>
+		<windowSize>
+			<width>1028</width>
+			<height>668</height>
+		</windowSize>
+	</generic>
+	<stage>
+		<scene sceneID="1" visibility="true">
+			<sceneName>Fly through object animation</sceneName>
+			<arguments>
+				<argument name="cameraDistance">-1000</argument>
+				<argument name="minorRadius">57.247364</argument>
+				<argument name="majorRadius">302.44724</argument>
+				<argument name="divisions">61</argument>
+			</arguments>
+		</scene>
+		<scene sceneID="2" visibility="true">
+			<sceneName>2D graph on XY plot</sceneName>
+			<arguments>
+				<argument name="axisDimensions">400</argument>
+				<argument name="xAxisLow">-10</argument>
+				<argument name="xAxisHi">10</argument>
+				<argument name="xAxisTickUnit">1</argument>
+				<argument name="yAxisLow">-8</argument>
+				<argument name="yAxisHi">8</argument>
+				<argument name="yAxisTickUnit">1</argument>
+				<argument name="zAxisLow">-8</argument>
+				<argument name="zAxisHi">8</argument>
+				<argument name="zAxisTickUnit">1</argument>
+				<argument name="plotLow">-10</argument>
+				<argument name="plotHi">10</argument>
+				<argument name="xPlotIncrement">0.1</argument>
+			</arguments>
+		</scene>
+		<scene sceneID="3" visibility="true">
+			<sceneName>3D graph on XYZ plot</sceneName>
+			<arguments>
+				<argument name="rangeX">1</argument>
+				<argument name="rangeY">2</argument>
+				<argument name="divisionsX">100</argument>
+				<argument name="divisionsY">100</argument>
+				<argument name="functionScale">1</argument>
+			</arguments>
+		</scene>
+		<scene sceneID="4" visibility="true">
+			<sceneName>3D Animation on XYZ plot</sceneName>
+			<arguments>
+				<argument name="rangeX">1</argument>
+				<argument name="rangeY">2</argument>
+				<argument name="divisionsX">100</argument>
+				<argument name="divisionsY">100</argument>
+				<argument name="functionScale">1</argument>
+			</arguments>
+		</scene>
+	</stage>
+</mathVisualization>

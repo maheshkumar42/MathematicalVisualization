@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Comrench/eclipse-workspace/MathematicalVisualization/lib/fxyz3d-0.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Comrench/eclipse-workspace/MathematicalVisualization/lib/jaxb-core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Comrench/eclipse-workspace/MathematicalVisualization/lib/jaxb-impl-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Comrench/eclipse-workspace/MathematicalVisualization/lib/jaxb-xjc-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
